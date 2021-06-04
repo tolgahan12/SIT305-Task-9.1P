@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pass Task 9_1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_show_all_restaurants_maps">Map</string>
+    <string name="Places_API">AIzaSyBljEe8PvCElc1xYqani3CfmfaF3mutxzQ</string>
+    <string name="title_activity_show_one_restarurant_maps">Map</string>
+</resources>
